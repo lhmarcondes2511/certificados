@@ -1,2 +1,2 @@
 # certificados
-Deixarei a mostra todos os meus certificados para comprovar meus estudos e meus conhecimentos
+Nesse repositório mostro todos os conhecimentos adquiridos ao longo da minha carreira profissional.
